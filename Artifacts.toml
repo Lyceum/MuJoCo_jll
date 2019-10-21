@@ -1,0 +1,25 @@
+[[MuJoCo]]
+arch = "x86_64"
+git-tree-sha1 = "b83333ac9e0f8ff4f210f7963af9f0810a6d6a7e"
+os = "windows"
+
+    [[MuJoCo.download]]
+    sha256 = "21c74409568e87be36b3bfb2ec8d147a7694248952fdcddff6926322d8ce2ab4"
+    url = "https://github.com/Lyceum/MuJoCo_jll/releases/download/MuJoCo-v2.0.0+0/MuJoCo.v2.0.0.x86_64-w64-mingw32.tar.gz"
+[[MuJoCo]]
+arch = "x86_64"
+git-tree-sha1 = "41b787284cab06c4e89c267c338916ef644a9ce8"
+libc = "glibc"
+os = "linux"
+
+    [[MuJoCo.download]]
+    sha256 = "b7de9a8f9893a1493ae159a6c6188785868b9ebce1ee0675bc5d9983d244a6db"
+    url = "https://github.com/Lyceum/MuJoCo_jll/releases/download/MuJoCo-v2.0.0+0/MuJoCo.v2.0.0.x86_64-linux-gnu.tar.gz"
+[[MuJoCo]]
+arch = "x86_64"
+git-tree-sha1 = "aea77aa84c1a110adbada603fb0a866ea349d44e"
+os = "macos"
+
+    [[MuJoCo.download]]
+    sha256 = "14d9f555d01679f75ab0a1bffecde463e9c834bc0588c728f6c52e8744d15d53"
+    url = "https://github.com/Lyceum/MuJoCo_jll/releases/download/MuJoCo-v2.0.0+0/MuJoCo.v2.0.0.x86_64-apple-darwin14.tar.gz"
