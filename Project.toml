@@ -1,6 +1,6 @@
 name = "MuJoCo_jll"
 uuid = "32af7c3b-80ec-5621-8194-2f6cb2280831"
-version = "2.0.0+0"
+version = "2.0.0+1"
 
 [deps]
 Libglvnd_jll = "7e76a0d4-f3c7-5321-8279-8d96eeed0f29"
