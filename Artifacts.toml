@@ -23,3 +23,13 @@ os = "macos"
     [[MuJoCo.download]]
     sha256 = "14d9f555d01679f75ab0a1bffecde463e9c834bc0588c728f6c52e8744d15d53"
     url = "https://github.com/Lyceum/MuJoCo_jll/releases/download/MuJoCo-v2.0.0+0/MuJoCo.v2.0.0.x86_64-apple-darwin14.tar.gz"
+[[MuJoCo]]
+arch = "x86_64"
+git-tree-sha1 = "aa3126cb987acec3b321bceb301628345f22ba83"
+libc = "glibc"
+libstdcxx = "11.1.0"
+os = "linux"
+
+    [[MuJoCo.download]]
+    sha256 = "1edbc07d840ca9fff55d7b5d7d287bda4d0b70dc7bb5374feed019e4ce50741f"
+    url = "https://github.com/JamieMair/MuJoCo_jll/releases/download/MuJoCo-v2.3.7+0/MuJoCo.v2.3.7.x86_64-linux-gnu-libstdcxx+11.1.0.tar.gz"
