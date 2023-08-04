@@ -1,6 +1,6 @@
 name = "MuJoCo_jll"
 uuid = "32af7c3b-80ec-5621-8194-2f6cb2280831"
-version = "2.3.7+0"
+version = "2.3.7"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
