@@ -1,18 +1,18 @@
 [[MuJoCo]]
 arch = "x86_64"
-git-tree-sha1 = "99ff554e09456a3735338ee823dbe8b5d71f0a19"
+git-tree-sha1 = "813b2930769f415521c95d88c7163967a0e108ca"
 os = "windows"
 
     [[MuJoCo.download]]
-    sha256 = "56205683661a3d1863762b9a479af764bcf70f3a7b496adb1f2d983e04c39bca"
+    sha256 = "26a480f621a774c1a9b66885c29b2536d8b7dac567ff264ee2eb6dbe23b4c3ea"
     url = "https://github.com/JamieMair/MuJoCo_jll/releases/download/v2.3.7/MuJoCo.v2.3.7.x86_64-windows.tar.gz"
 [[MuJoCo]]
 arch = "x86_64"
-git-tree-sha1 = "5353516030ce58f4653901044a90ed9d45867a0f"
+git-tree-sha1 = "e286909738bdf055334656ce26f3ad3bddc1ca24"
 os = "macos"
 
     [[MuJoCo.download]]
-    sha256 = "55fa81a25b76cd0d4645a36cd45b32f004e00a49a6e4179cd71d9dd0f2b57ad0"
+    sha256 = "88c3bfc95e86d74bf83f8b72020b980d17ae669e4ca3af3d714973be88884041"
     url = "https://github.com/JamieMair/MuJoCo_jll/releases/download/v2.3.7/MuJoCo.v2.3.7.x86_64-macos.tar.gz"
 [[MuJoCo]]
 arch = "x86_64"
